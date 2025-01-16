@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akeeb2000
-- 👀 I’m interested in working and collaborating on Data related jobs
+- 👀 I’m interested in working and collaborating on Data 
 - 🌱 I analyse data and make prediction on sales data
 - 💞️ I’m looking to collaborate on ecommerce and marketing data jobs
 - 📫 How to reach me .....akeebaliu@gmail.com
